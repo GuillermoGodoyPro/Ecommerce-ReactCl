@@ -1,6 +1,6 @@
 ## Descripción 
 
-GGBook starts like a portfolio but I want to scale it like a webbook
+Ecommerce con React
 
 ## Autor -
 **Godoy Guillermo**
@@ -25,4 +25,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Licencia
-No license
+Apache
