@@ -11,10 +11,10 @@ module.exports = {
       },
     },
     screens: {
-      sm: '640px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1440px',
+      sm: '40em',
+      md: '48em', //48em = 768px
+      lg: '64em', //64em = 1024px
+      xl: '90em',
     },
     extend: {
       colors: {
