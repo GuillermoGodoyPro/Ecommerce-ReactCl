@@ -10,15 +10,15 @@ const Product = ({ product }) => {
 
   return (
     <div> 
-
       <div className='border border-[#e4e4e4] h-[300px] mb-4 relative overflow-hidden group transition'>
-        
-          {/* Imgae */}
-        <div>
-          <img src={image} alt="" />
+        <div className='w-full h-full flex justify-center items-center'>
+            {/* Imgae */}
+          <div className='w-[200px] mx-auto flex justify-center items-center'>
+            <img  src={image} alt="" />
+          </div>
         </div>
       </div>
-      <div></div>
+      <div>2</div>
 
       {/* <div
         className='w-full h-[300px] bg-pink-200' key={product.id}
